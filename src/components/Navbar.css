@@ -1,0 +1,76 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 40px;
+  background: #fff;
+  border-bottom: 2px solid #f15b5b; /* thin red top border */
+  font-family: Arial, sans-serif;
+}
+
+/* Logo Section */
+.navbar-logo {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.logo-icon {
+  background: #3bbaf8;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 8px;
+  padding: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navbar-logo h2 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #222;
+  margin: 0;
+}
+
+/* Links Section */
+.navbar-links {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-links li a {
+  text-decoration: none;
+  color: #222;
+  font-size: 14px;
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+.navbar-links li a:hover,
+.navbar-links li a.active {
+  color: #007bff;
+}
+
+/* Cart Section */
+.navbar-cart {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 14px;
+  color: #555;
+}
+
+.cart-icon {
+  font-size: 16px;
+  color: #333;
+}
+
+.cart-price {
+  color: #999;
+  font-weight: 500;
+}

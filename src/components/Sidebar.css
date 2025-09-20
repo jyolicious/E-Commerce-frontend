@@ -1,0 +1,81 @@
+.sidebar {
+  width: 220px;
+  padding: 15px;
+  background: #fff;
+  border-right: 1px solid #ddd;
+  font-family: Arial, sans-serif;
+}
+
+.sidebar-section {
+  margin-bottom: 20px;
+}
+
+.sidebar-section h4 {
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+/* List styling */
+.sidebar-section ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar-section ul li {
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+  margin-bottom: 6px;
+}
+
+.sidebar-section ul li a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.sidebar-section ul li a:hover {
+  text-decoration: underline;
+}
+
+/* Price range */
+.sidebar-section input[type="range"] {
+  width: 100%;
+  margin-top: 10px;
+}
+
+/* Colors */
+.color-options {
+  display: flex;
+  gap: 10px;
+}
+
+.color {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 1px solid #ccc;
+}
+
+.color.red { background: red; }
+.color.black { background: black; }
+.color.yellow { background: yellow; }
+.color.pink { background: pink; }
+.color.grey { background: grey; }
+
+/* More button */
+.more button {
+  width: 100%;
+  padding: 8px;
+  background: #f2f2f2;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  font-size: 13px;
+}
+
+.more button:hover {
+  background: #e2e2e2;
+}
