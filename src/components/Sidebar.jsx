@@ -4,7 +4,7 @@ import "./sidebar.css";
 const Sidebar = () => {
   return (
     <div className="sidebar">
-      {/* Hot Deals Section */}
+      {/* 1️⃣ Hot Deals Section */}
       <div className="sidebar-section">
         <h4>Hot Deals</h4>
         <ul>
@@ -18,14 +18,14 @@ const Sidebar = () => {
         </ul>
       </div>
 
-      {/* Price Range Section */}
+      {/* 2️⃣ Price Range Section */}
       <div className="sidebar-section">
         <h4>Prices</h4>
         <p>Range: <span>$13.99 - $25.99</span></p>
         <input type="range" min="0" max="100" defaultValue="50" />
       </div>
 
-      {/*  Color Selection */}
+      {/* 3️⃣ Color Selection */}
       <div className="sidebar-section">
         <h4>Color</h4>
         <div className="color-options">
@@ -37,7 +37,7 @@ const Sidebar = () => {
         </div>
       </div>
 
-      {/* Brand Section */}
+      {/* 4️⃣ Brand Section */}
       <div className="sidebar-section">
         <h4>Brand</h4>
         <ul>
@@ -48,7 +48,7 @@ const Sidebar = () => {
         </ul>
       </div>
 
-      {/* More Button */}
+      {/* 5️⃣ More Button */}
       <div className="sidebar-section more">
         <button>MORE</button>
       </div>

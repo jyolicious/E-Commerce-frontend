@@ -1,0 +1,30 @@
+[
+  { "id": 1, "name": "Nike Airmax 90", "brand": "Nike", "price": 50, "image": "/assets/product1.png", "category": "Sneakers" },
+  { "id": 2, "name": "Nike ZoomX", "brand": "Nike", "price": 70, "image": "/assets/product1.png", "category": "Sneakers" },
+  { "id": 3, "name": "Adidas Ultraboost", "brand": "Adidas", "price": 60, "image": "/assets/product1.png", "category": "Sneakers" },
+  { "id": 4, "name": "Adidas Superstar", "brand": "Adidas", "price": 45, "image": "/assets/product1.png", "category": "Sneakers" },
+  { "id": 5, "name": "Vans Old Skool", "brand": "Vans", "price": 40, "image": "/assets/product1.png", "category": "Sneakers" },
+  { "id": 6, "name": "Vans Checkerboard", "brand": "Vans", "price": 55, "image": "/assets/product1.png", "category": "Sneakers" },
+  { "id": 7, "name": "All Star Classic", "brand": "All Stars", "price": 35, "image": "/assets/product1.png", "category": "Sneakers" },
+  { "id": 8, "name": "All Star High Top", "brand": "All Stars", "price": 42, "image": "/assets/product1.png", "category": "Sneakers" },
+  { "id": 9, "name": "Puma RS-X", "brand": "Puma", "price": 65, "image": "/assets/product1.png", "category": "Sneakers" },
+  { "id": 10, "name": "Puma Suede", "brand": "Puma", "price": 38, "image": "/assets/product1.png", "category": "Sneakers" },
+
+  { "id": 11, "name": "Nike Training Bag", "brand": "Nike", "price": 25, "image": "/assets/product1.png", "category": "Bag" },
+  { "id": 12, "name": "Adidas Duffel Bag", "brand": "Adidas", "price": 30, "image": "/assets/product1.png", "category": "Bag" },
+  { "id": 13, "name": "Puma Backpack", "brand": "Puma", "price": 22, "image": "/assets/product1.png", "category": "Bag" },
+  { "id": 14, "name": "Vans Tote Bag", "brand": "Vans", "price": 18, "image": "/assets/product1.png", "category": "Bag" },
+  { "id": 15, "name": "All Star Sling Bag", "brand": "All Stars", "price": 20, "image": "/assets/product1.png", "category": "Bag" },
+
+  { "id": 16, "name": "Nike Sports Belt", "brand": "Nike", "price": 15, "image": "/assets/product1.png", "category": "Belt" },
+  { "id": 17, "name": "Adidas Training Belt", "brand": "Adidas", "price": 17, "image": "/assets/product1.png", "category": "Belt" },
+  { "id": 18, "name": "Puma Slim Belt", "brand": "Puma", "price": 12, "image": "/assets/product1.png", "category": "Belt" },
+  { "id": 19, "name": "All Star Leather Belt", "brand": "All Stars", "price": 19, "image": "/assets/product1.png", "category": "Belt" },
+  { "id": 20, "name": "Vans Casual Belt", "brand": "Vans", "price": 16, "image": "/assets/product1.png", "category": "Belt" },
+
+  { "id": 21, "name": "Nike Cap", "brand": "Nike", "price": 10, "image": "/assets/product1.png", "category": "Accessories" },
+  { "id": 22, "name": "Adidas Cap", "brand": "Adidas", "price": 11, "image": "/assets/product1.png", "category": "Accessories" },
+  { "id": 23, "name": "Puma Cap", "brand": "Puma", "price": 9, "image": "/assets/product1.png", "category": "Accessories" },
+  { "id": 24, "name": "Vans Cap", "brand": "Vans", "price": 8, "image": "/assets/product1.png", "category": "Accessories" },
+  { "id": 25, "name": "All Star Cap", "brand": "All Stars", "price": 12, "image": "/assets/product1.png", "category": "Accessories" }
+]
